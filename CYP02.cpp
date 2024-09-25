@@ -13,5 +13,4 @@ bfType1 = 66;      // 'B'
 
     return 0;
 }
-
-
+// Tarea de repositorio colaborativo
